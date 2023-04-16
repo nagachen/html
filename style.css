@@ -52,7 +52,7 @@ h1{
     text-align: right;
 }
 .more::after{
-    content: url(img/ico_arrorw.png);
+    content: url(img/ico_arrow.png);
     margin-left: 3px;
     vertical-align: middle;
     
@@ -61,5 +61,4 @@ h1{
 /* 區塊間分隔 */
  section + section {
     margin-top: 80px;
-    background-color: #d0e35b;
   }
