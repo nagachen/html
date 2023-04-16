@@ -59,6 +59,6 @@ h1{
 }
 /* 連結圖示設定 */
 /* 區塊間分隔 */
- section + section {
+ #contents > section + section {
     margin-top: 80px;
   }
