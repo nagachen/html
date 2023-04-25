@@ -1,7 +1,9 @@
 @charset "utf-8";
 /* 視窗背景設定 */
 body{
-    background-color: #fbf9cc;
+   
+    background:  url(img/bg.png) repeat-x #fbf9cc;
+    
 }
 /* 連結顏色設定 */
 a{
